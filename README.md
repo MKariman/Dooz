@@ -8,7 +8,7 @@
 <br />
 **Framework:** Windows Application (.exe)
 <br />
-This is a simple application can generate *Error , Success , Warning , Information* desktop notifications.
+
 
 
 > If there is a Question, I'm here.
