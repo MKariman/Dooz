@@ -18,3 +18,12 @@ C:\Users\ASUS\Desktop\WindowsFormsDooz\WindowsFormsDooz\WindowsFormsDooz\obj\Deb
 C:\Users\ASUS\Desktop\WindowsFormsDooz\WindowsFormsDooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\WindowsFormsDooz\WindowsFormsDooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.exe
 C:\Users\ASUS\Desktop\WindowsFormsDooz\WindowsFormsDooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.pdb
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\bin\Debug\WindowsFormsDooz.exe.config
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\bin\Debug\WindowsFormsDooz.exe
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\bin\Debug\WindowsFormsDooz.pdb
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.csprojResolveAssemblyReference.cache
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.Form1.resources
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.Properties.Resources.resources
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.csproj.GenerateResource.Cache
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.exe
+D:\Git\Git-Hub\MKariman\repo\Dooz\WindowsFormsDooz\obj\Debug\WindowsFormsDooz.pdb
